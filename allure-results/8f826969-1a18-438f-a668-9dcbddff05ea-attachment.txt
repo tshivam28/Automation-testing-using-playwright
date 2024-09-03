@@ -1,0 +1,16 @@
+User Data:  {
+  username: 'adm_gandhi',
+  password: '123456',
+  department: '129',
+  ward: '305',
+  unit: '12911',
+  room: '1201',
+  service: '2'
+}
+User Data Department:  129
+User Data Unit:  12911
+User Data Ward:  305
+User Data Room:  1201
+User Data Service:  2
+Checking the checkbox
+Checking the radio button

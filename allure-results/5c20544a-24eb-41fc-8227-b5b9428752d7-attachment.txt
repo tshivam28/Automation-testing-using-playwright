@@ -1,0 +1,22 @@
+User Data:  {
+  username: 'adm_gandhi',
+  password: '123456',
+  department: '129',
+  ward: '305',
+  unit: '12911',
+  room: '1201',
+  service: '2'
+}
+User Data Department:  129
+User Data Unit:  12911
+User Data Ward:  305
+User Data Room:  1201
+User Data Service:  2
+Accepted CR Number:  
+Clicking the Acceptance button
+Checking the radio button
+Do You Want to Proceed...
+Selecting the consultant from the dropdown
+Selecting the bed from the dropdown
+Clicking the Save button
+Form filled with data successfully

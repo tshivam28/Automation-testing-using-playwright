@@ -1,0 +1,28 @@
+User Data:  {
+  username: 'adm_gandhi',
+  password: '123456',
+  department: '129',
+  ward: '305',
+  unit: '12911',
+  room: '1201',
+  service: '1',
+  changedepartment: '195',
+  changeunit: '19511',
+  changeward: '291^0',
+  cunsultantunit: '331059700071',
+  changeroom: '1183',
+  adviceby: '331059700098',
+  transferunit: '8',
+  dischargeby: '331059700098',
+  treatmentresult: '4'
+}
+User Data Department:  129
+User Data Unit:  12911
+User Data Ward:  305
+User Data Room:  1201
+User Data Service:  1
+Accepted CR Number:  
+Checkbox Value:  331052400011087@331052024000360@0*12911*1201$2
+First Value:  331052400011087
+Second Value:  331052024000360
+Closing the Nursing Desk tab

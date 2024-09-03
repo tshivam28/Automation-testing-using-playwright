@@ -1,0 +1,11 @@
+User Data:  {
+  username: 'adm_gandhi',
+  password: '123456',
+  department: '129',
+  ward: '12911',
+  unit: '305',
+  room: '1203',
+  service: '2'
+}
+User Data Department:  129
+User Data Unit:  305

@@ -1,0 +1,4 @@
+Attempting to click the dropdown
+Found 16 options in the dropdown
+Selected option value: 1201^12^999120101^1^1^0
+Save button clicked

@@ -1,0 +1,40 @@
+[  
+  {
+
+    "username": "adm_gandhi",
+    "password": "123456",
+    "departmentCode": "214",
+    "primaryCatCode": "75",
+    "firstName": "oWovcxvxcvzshp",
+    "middleName": "Kumar",
+    "guardianName": "Kumssar",
+    "age": "25",
+    "gender": "F",
+    "lastName": "Tiwari",
+    "birthPlace": "jaunpur",
+    "mobileNo": "9088003144",
+    "countryCode": "IND",
+    "street": "jhsdjga",
+    "city": "fsdfsdf",
+    "districtCode": "536"
+
+  },
+  {
+    "username": "adm_gandhi",
+    "password": "123456",
+    "departmentCode": "214",
+    "primaryCatCode": "75",
+    "firstName": "qcfbmnnrdOPx",
+    "middleName": "Kumar",
+    "guardianName": "Kumssar",
+    "age": "25",
+    "gender": "F",
+    "lastName": "Tiwari",
+    "birthPlace": "jaunpur",
+    "mobileNo": "8860650022",
+    "countryCode": "IND",
+    "street": "jhsdjga",
+    "city": "fsdfsdf",
+    "districtCode": "536"
+  }
+]
