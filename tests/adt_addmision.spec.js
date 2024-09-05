@@ -1,7 +1,8 @@
-const { test, expect } = require('@playwright/test');
+
+//shivamconst { test, expect } = require('@playwright/test');
 const userDataArray = require("../testdata/addmission.json");
 const crNumbers = require("../testdata/allCRNumbersDatacopy.json").crNumbers;
-test.describe.parallel('Fill Form with JSON Data', () => {
+test.describe.parallel('Fill Form with JSON Data', () => { 
   for (let i = 0; i < userDataArray.length; i++) {
     const userData = userDataArray[i];
     const crNumber = crNumbers[i];
@@ -10,6 +11,7 @@ test.describe.parallel('Fill Form with JSON Data', () => {
       // Fill login details
       await page.locator('#UserName').fill(userData.username);
       await page.locator("[type='password']").fill(userData.password);
+      await page.locator("[type='submit']").click();
       await page.locator("[type='submit']").click();
       await page.click('a[aria-controls="A D T"]');
       const framePage2 = page.frameLocator("[id='frmMainMenu']");
